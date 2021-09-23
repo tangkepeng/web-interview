@@ -1,68 +1,7 @@
 
-<p align="center">
-<img width="300px"  style="max-width:300px; width:300px;" src="https://static.vue-js.com/21494410-8e11-11eb-ab90-d9ae814b240d.png"/>
-</p>
-<p align="center">
-  <a href="https://github.com/febobo/web-interview/stargazers"><img src="https://img.shields.io/redmine/plugin/stars/redmine_xlsx_format_issue_exporter.svg" alt="Statr"></a>
-<a href="https://github.com/febobo/web-interview/issues"><img src="https://img.shields.io/github/languages/top/badges/shields.svg?label=vue" alt="vue"></a>
-<a href="https://github.com/febobo/web-interview/issues"><img src="https://img.shields.io/github/languages/top/badges/shields.svg?label=es6" alt="es6"></a>
-  <a href="https://github.com/febobo/web-interview/issues"><img src="https://img.shields.io/github/languages/top/badges/shields.svg?label=css" alt="css"></a>
-  <a href="https://github.com/febobo/web-interview/issues"><img src="https://img.shields.io/github/languages/top/badges/shields.svg?label=javascript" alt="javascript"></a>
-</p>
-
-本仓库为语音打卡社群(JS每日一题)维护的前端面试题库，包含不限于Vue面试题，React面试题，JS面试题，HTTP面试题，工程化面试题，CSS面试题，算法面试题，大厂面试题，高频面试题
-
-同时我们提供更好阅读体验的在线版本，[点这里](https://vue3js.cn/interview)
-
-避免失联可以先点star
-
-PS: 仓库每周一更，想要及时收到推送，交流想法的同学，可以点击[@公众号:JS每日一题](https://static.vue-js.com/b4b71a30-443b-11eb-85f6-6fac77c0c9b3.png)关注我们
-
-##  🤠 为什么要做这样的一个仓库
-最开始是没有想要弄仓库的，我们通过微信群语音的形式进行每天一次的打卡，次日再通过[公众号](https://static.vue-js.com/b4b71a30-443b-11eb-85f6-6fac77c0c9b3.png)图文形式的题解推送至群内供大家复盘总结
-
-随着时间的推移，题也积累的越来越多，再去通过公众号检索信息效率会明显降低
-
-这个时候我们就想着通过开源的形式，将我们总结好的文章以多种形态的呈现方式帮助到更多需要的人
-
-## 🤡 这个仓库主要内容是?
-
-仓库目前主题以前端面试题为主，后续可能会扩展更多的分支
-
-在这个信息爆炸，前端生态百花齐放的时代，我们每找寻一个答案都要换一种形式，这简直太奢侈了
-
-我们的目标是做最全最好最有质量前端面试仓库，用心收录大厂面试题，高频面试题，知识点面试题，用心做好每一道题值得参考的题解
-
-## 🤡 你们的本质就是面试题吗？
-
-不是，一直在强调语音社群，这个仓库也仅且是一个附属品
-
-我们只是以面试题的形式作为切入点，根据面试题去反推学习更具体的知识点，绝不仅限于应对面试，要真真切切在学习过程中得到蜕变
-
-社群内每天的打卡都是一次思维整理输出的训练，将自己想要表达的内容放入框架中再进行输出，让我们的表达更简洁更系统
-
-它的背后是思考，总结，更是坚持
-
-在过程中看清自已，在结果中遇见自己，我们都值得有更美好的未来
-
-再晒晒平常我们的样子
-
-<p>
-<img width="600px"  style="max-width:600px; width:600px;" src="https://user-images.githubusercontent.com/9276376/102876713-90c0f700-4480-11eb-880f-613f8f0f5042.png"/>
-</p>
-
-如果看到这里你也有兴趣，欢迎扫描下方二维码加入我们，持续成长
-
-<p>
-  <img  width="200px" style="max-width:200px; width:200px; height: 200px" src="https://static.vue-js.com/b4b71a30-443b-11eb-85f6-6fac77c0c9b3.png"/>
-</p>
-
-## 🤡 内容
-
-点击[@公众号:JS每日一题](https://static.vue-js.com/b4b71a30-443b-11eb-85f6-6fac77c0c9b3.png)扫码关注，跟踪我们最新动态
 
 
-<h3 style="text-align: center" align="center">Vue系列</h3>
+<h3>Vue系列</h3>
 
 - [面试官：说说你对vue的理解?](https://github.com/febobo/web-interview/issues/1)
 - [面试官：说说你对双向绑定的理解?](https://github.com/febobo/web-interview/issues/2)
@@ -97,7 +36,7 @@ PS: 仓库每周一更，想要及时收到推送，交流想法的同学，可�
 - [面试官：你是怎么处理vue项目中的错误的？](https://github.com/febobo/web-interview/issues/32)
 - [面试官：Vue3有了解过吗？能说说跟Vue2的区别吗？](https://github.com/febobo/web-interview/issues/33)
 
-<h3 style="text-align: center" align="center">Vue3系列</h3>
+<h3>Vue3系列</h3>
 
 - [面试官：Vue3.0的设计目标是什么？做了哪些优化?](https://github.com/febobo/web-interview/issues/45)
 - [面试官：Vue3.0 性能提升主要是通过哪几方面体现的？](https://github.com/febobo/web-interview/issues/46)
@@ -106,7 +45,7 @@ PS: 仓库每周一更，想要及时收到推送，交流想法的同学，可�
 - [面试官：说说Vue 3.0中Treeshaking特性？举例说明一下？](https://github.com/febobo/web-interview/issues/67)
 - [面试官：用Vue3.0 写过组件吗？如果想实现一个 Modal你会怎么设计？](https://github.com/febobo/web-interview/issues/50)
 
-<h3 style="text-align: center">React系列</h3>
+<h3>React系列</h3>
 
 - [面试官：说说对React的理解？有哪些特性？](https://github.com/febobo/web-interview/issues/180)
 - [面试官：说说 Real DOM和 Virtual DOM 的区别？优缺点？](https://github.com/febobo/web-interview/issues/181)
@@ -142,7 +81,7 @@ PS: 仓库每周一更，想要及时收到推送，交流想法的同学，可�
 - [面试官：说说React服务端渲染怎么做？原理是什么？](https://github.com/febobo/web-interview/issues/217)
 - [面试官：说说你在使用React 过程中遇到的常见问题？如何解决?](https://github.com/febobo/web-interview/issues/218)
 
-<h3 style="text-align: center" align="center">ES6系列</h3>
+<h3>ES6系列</h3>
 
 - [面试官：说说var、let、const之间的区别](https://github.com/febobo/web-interview/issues/34)
 - [面试官：ES6中数组新增了哪些扩展?](https://github.com/febobo/web-interview/issues/35)
@@ -156,7 +95,7 @@ PS: 仓库每周一更，想要及时收到推送，交流想法的同学，可�
 - [面试官：你是怎么理解ES6中 Decorator 的？使用场景？](https://github.com/febobo/web-interview/issues/44)
 
 
-<h3 style="text-align: center">NodeJS系列</h3>
+<h3>NodeJS系列</h3>
 
 - [面试官：说说你对Node.js 的理解？优缺点？应用场景？](https://github.com/febobo/web-interview/issues/153)
 - [面试官：说说 Node. js 有哪些全局对象？](https://github.com/febobo/web-interview/issues/154)
@@ -173,7 +112,7 @@ PS: 仓库每周一更，想要及时收到推送，交流想法的同学，可�
 - [面试官：如果让你来设计一个分页功能, 你会怎么设计? 前后端如何交互?](https://github.com/febobo/web-interview/issues/172)
 - [面试官：Node性能如何进行监控以及优化？](https://github.com/febobo/web-interview/issues/173)
 
-<h3 style="text-align: center" align="center">Javascript系列</h3>
+<h3>Javascript系列</h3>
 
 - [面试官：说说Javascript中的数据类型？区别？](https://github.com/febobo/web-interview/issues/51)
 - [面试官：Javscript数组的常用方法有哪些？](https://github.com/febobo/web-interview/issues/52)
@@ -212,7 +151,7 @@ PS: 仓库每周一更，想要及时收到推送，交流想法的同学，可�
 
 
 
-<h3 style="text-align: center">CSS系列</h3>
+<h3>CSS系列</h3>
 
 - [面试官：说说你对盒子模型的理解?](https://github.com/febobo/web-interview/issues/93)
 - [面试官：css选择器有哪些？优先级？哪些属性可以继承？](https://github.com/febobo/web-interview/issues/95)
@@ -248,7 +187,7 @@ PS: 仓库每周一更，想要及时收到推送，交流想法的同学，可�
 - [面试官：如何提高webpack的构建速度？](https://github.com/febobo/web-interview/issues/132)
 - [面试官：与webpack类似的工具还有哪些？区别？](https://github.com/febobo/web-interview/issues/133)
 
-<h3 style="text-align: center">HTTP系列</h3>
+<h3>HTTP系列</h3>
 
 - [面试官：什么是HTTP? HTTP 和 HTTPS 的区别?](https://github.com/febobo/web-interview/issues/134)
 - [面试官：为什么说HTTPS比HTTP安全? HTTPS是如何保证安全的？](https://github.com/febobo/web-interview/issues/135)
@@ -266,7 +205,7 @@ PS: 仓库每周一更，想要及时收到推送，交流想法的同学，可�
 - [面试官：说说对WebSocket的理解？应用场景？](https://github.com/febobo/web-interview/issues/152)
 
 
-<h3 style="text-align: center">版本控制系列</h3>
+<h3>版本控制系列</h3>
 
 - [面试官：说说你对版本管理的理解？常用的版本管理工具有哪些？](https://github.com/febobo/web-interview/issues/219)
 - [面试官：说说你对Git的理解？](https://github.com/febobo/web-interview/issues/220)
@@ -279,7 +218,7 @@ PS: 仓库每周一更，想要及时收到推送，交流想法的同学，可�
 - [面试官：说说 git 发生冲突的场景？如何解决？](https://github.com/febobo/web-interview/issues/229)
 - [面试官：说说你对git reset 和 git revert 的理解？区别？](https://github.com/febobo/web-interview/issues/230)
 
-<h3 style="text-align: center">操作系统系列</h3>
+<h3>操作系统系列</h3>
 
 - [面试官：说说你对操作系统的理解？核心概念有哪些？](https://github.com/febobo/web-interview/issues/231)
 - [面试官：说说什么是进程？什么是线程？区别？](https://github.com/febobo/web-interview/issues/232)
@@ -289,7 +228,7 @@ PS: 仓库每周一更，想要及时收到推送，交流想法的同学，可�
 - [面试官：说说你对输入输出重定向和管道的理解？应用场景？](https://github.com/febobo/web-interview/issues/236)
 - [面试官：说说你对 shell 的理解？常见的命令？](https://github.com/febobo/web-interview/issues/237)
 
-<h3 style="text-align: center">typescript系列</h3>
+<h3>typescript系列</h3>
 
 - [面试官：说说你对 typescript 的理解？与 javascript 的区别？](https://github.com/febobo/web-interview/issues/245)
 - [面试官：说说 typescript 的数据类型有哪些？](https://github.com/febobo/web-interview/issues/246)
