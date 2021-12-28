@@ -241,11 +241,52 @@
 - [面试官：说说你对 TypeScript 装饰器的理解？应用场景？](https://github.com/febobo/web-interview/issues/252)
 - [面试官：说说对 TypeScript 中命名空间与模块的理解？区别？](https://github.com/febobo/web-interview/issues/253)
 - [面试官：说说如何在React项目中应用TypeScript？](https://github.com/febobo/web-interview/issues/255)
+- [面试官：说说如何在Vue项目中应用TypeScript？](https://github.com/febobo/web-interview/issues/257)
+
+<h3 style="text-align: center">算法系列</h3>
+
+- [面试官：说说你对算法的理解？应用场景？](https://github.com/febobo/web-interview/issues/258)
+- [面试官：说说你对算法中时间复杂度，空间复杂度的理解？如何计算？](https://github.com/febobo/web-interview/issues/259)
+- [面试官：说说你对数据结构的理解？有哪些？区别？](https://github.com/febobo/web-interview/issues/260)
+- [面试官：说说你对栈、队列的理解？应用场景？](https://github.com/febobo/web-interview/issues/261)
+- [面试官：说说你对链表的理解？常见的操作有哪些？](https://github.com/febobo/web-interview/issues/262)
+- [面试官：说说你对集合的理解？常见的操作有哪些？](https://github.com/febobo/web-interview/issues/263)
+- [面试官：说说你对树的理解？相关的操作有哪些？](https://github.com/febobo/web-interview/issues/264)
+- [面试官：说说你对堆的理解？如何实现？应用场景？](https://github.com/febobo/web-interview/issues/265)
+- [面试官：说说你对图的理解？相关操作有哪些？](https://github.com/febobo/web-interview/issues/266)
+- [面试官：说说常见的排序算法有哪些？区别？](https://github.com/febobo/web-interview/issues/267)
+- [面试官：说说你对冒泡排序的理解？如何实现？应用场景？](https://github.com/febobo/web-interview/issues/271)
+- [面试官：说说你对选择排序的理解？如何实现？应用场景？](https://github.com/febobo/web-interview/issues/272)
+- [面试官：说说你对插入排序的理解？如何实现？应用场景？](https://github.com/febobo/web-interview/issues/273)
+- [面试官：说说你对归并排序的理解？如何实现？应用场景？](https://github.com/febobo/web-interview/issues/274)
+- [面试官：说说你对快速排序的理解？如何实现？应用场景？](https://github.com/febobo/web-interview/issues/275)
+- [面试官：说说你对二分查找的理解？如何实现？应用场景？](https://github.com/febobo/web-interview/issues/276)
+- [面试官：说说你对分而治之、动态规划的理解？区别？](https://github.com/febobo/web-interview/issues/77)
+- [面试官：说说你对贪心算法、回溯算法的理解？应用场景？](https://github.com/febobo/web-interview/issues/278)
+
+<h3 style="text-align: center">小程序系列</h3>
+
+- [面试官：说说你对微信小程序的理解？优缺点？](https://github.com/febobo/web-interview/issues/282)
+- [面试官：说说微信小程序的生命周期函数有哪些？](https://github.com/febobo/web-interview/issues/283)
+- [面试官：说说微信小程序中路由跳转的方式有哪些？区别？](https://github.com/febobo/web-interview/issues/284)
+- [面试官：说说提高微信小程序的应用速度的手段有哪些？](https://github.com/febobo/web-interview/issues/285)
+- [面试官：说说微信小程序的登录流程？](https://github.com/febobo/web-interview/issues/286)
+- [面试官：说说微信小程序的发布流程？](https://github.com/febobo/web-interview/issues/287)
+- [面试官：说说微信小程序的支付流程？](https://github.com/febobo/web-interview/issues/288)
+- [面试官：说说微信小程序的实现原理？](https://github.com/febobo/web-interview/issues/289)
+
+<h3 style="text-align: center">设计模式系列</h3>
+
+- [面试官：说说对设计模式的理解？常见的设计模式有哪些？](https://github.com/febobo/web-interview/issues/290)
+- [面试官：说说你对单例模式的理解？如何实现？](https://github.com/febobo/web-interview/issues/291)
+- [面试官：说说你对工厂模式的理解？应用场景？](https://github.com/febobo/web-interview/issues/292)
+- [面试官：说说你对策略模式的理解？应用场景？](https://github.com/febobo/web-interview/issues/293)
+- [面试官：说说你对代理模式的理解？应用场景？](https://github.com/febobo/web-interview/issues/294)
+- [面试官：说说你对发布订阅、观察者模式的理解？区别？](https://github.com/febobo/web-interview/issues/295)
+
 ## 👧 更多系列
 
 ### 面试官手写系列/精选33道
-筹备中..
-### 面试官算法系列/精选33道
 筹备中..
 ### 面试官浏览器系列/精选33道
 筹备中..
